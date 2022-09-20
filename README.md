@@ -7,6 +7,6 @@ DAY-1
 5.brakeryseller
 6.rangeofarray
 7.countstrings
-8.floatingvales
+8.frequencycharacter
 9.experiment 9
 10.experiment 10
