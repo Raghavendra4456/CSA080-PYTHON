@@ -18,7 +18,7 @@ DAY-2
 3.countwords
 4.mergeoftwolists
 5.basiccalculator 
-6.dailpad
+6.lettercombination
 7.generateparentheses
 8.inputstring
 9.seasonconstruction
