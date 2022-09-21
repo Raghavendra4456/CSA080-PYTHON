@@ -10,3 +10,14 @@ DAY-1
 8.frequencycharacter
 9.experiment 9
 10.experiment 10
+DAY-2
+1.staircase
+2.leapyear
+3.countwords
+4.mergeoftwolists
+5.basiccalculator 2
+6.
+7.generateparentheses
+8.
+9.seasonconstruction
+10.removecommonwords
