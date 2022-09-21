@@ -8,8 +8,8 @@ DAY-1
 6.rangeofarray
 7.countstrings
 8.frequencycharacter
-9.experiment 9
-10.experiment 10 
+9.party organised on a cruise
+10.modifystring
 
 
 DAY-2
