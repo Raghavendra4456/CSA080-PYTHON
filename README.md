@@ -17,9 +17,9 @@ DAY-2
 2.leapyear
 3.countwords
 4.mergeoftwolists
-5.basiccalculator 2
-6.
+5.basiccalculator 
+6.dailpad
 7.generateparentheses
-8.
+8.inputstring
 9.seasonconstruction
 10.removecommonwords
