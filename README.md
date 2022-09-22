@@ -26,13 +26,13 @@ DAY-2
 
 
 DAY-3
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.maximumprofit
+2.projectmanager
+3.arrayofintegers
+4.add binary numbers
+5.array of elements
+6.reverse strings
+7.permutations
+8.anagrams
+9.inputstringregularexpression
+10.insert,delete,replace character
