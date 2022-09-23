@@ -41,7 +41,7 @@ DAY-3
 DAY-4
 1.fizzbuzz
 2.
-3.
+3. range of lists
 4.
 5.
 6.
