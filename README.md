@@ -36,3 +36,16 @@ DAY-3
 8.anagrams
 9.inputstringregularexpression
 10.insert,delete,replace character
+
+
+DAY-4
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
