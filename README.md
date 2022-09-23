@@ -45,7 +45,7 @@ DAY-4
 4.
 5.array of floats
 6.function delchar 
-7.
+7.vowel strings
 8.
 9.
 10.
