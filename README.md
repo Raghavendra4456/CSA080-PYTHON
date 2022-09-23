@@ -40,10 +40,10 @@ DAY-3
 
 DAY-4
 1.fizzbuzz
-2.
+2.pc users in college
 3. range of lists
 4.
-5.
+5.array of floats
 6.
 7.
 8.
