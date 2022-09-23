@@ -44,7 +44,7 @@ DAY-4
 3. range of lists
 4.
 5.array of floats
-6.
+6.function delchar 
 7.
 8.
 9.
