@@ -47,5 +47,5 @@ DAY-4
 6.function delchar 
 7.vowel strings
 8.Roman to Integer
-9.
-10.
+9. year dividing into 4 seasons
+10.scramble string
