@@ -42,7 +42,7 @@ DAY-4
 1.fizzbuzz
 2.pc users in college
 3. range of lists
-4.
+4.valid polindrome
 5.array of floats
 6.function delchar 
 7.vowel strings
