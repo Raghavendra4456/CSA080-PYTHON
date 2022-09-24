@@ -53,13 +53,13 @@ DAY-4
 
 DAY-5
 1.words&spaces of strings
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+2.origanization of employees
+3.perfect squares
+4.perfect square numbers or not
+5.index of peak points
+6.triangular array of binomial coefficient
+7.Longest subset with least K repeating character
+8.matrix of a chessboard
+9.function shuffle
+10.reverse words in a strings
 
