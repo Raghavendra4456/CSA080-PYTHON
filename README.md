@@ -49,3 +49,17 @@ DAY-4
 8.Roman to Integer
 9. year dividing into 4 seasons
 10.scramble string
+
+
+DAY-5
+1.words&spaces of strings
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
